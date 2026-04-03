@@ -35,14 +35,13 @@ Spring MVC + Hibernate + MySQL
 🌱 **Crop Monitoring System**  
 Spring Boot + JWT + MySQL + Role Management  
 
-💪 **Fitness App Backend**  
-Express + TypeScript + Prisma  
+🏨 **Hotel Website**  
+HTML + CSS + Bootstrap (Responsive UI Design)  
 
-🎬 **Movie Ticket Booking App**  
-React Native + TheMovieDB API  
+📱 **Flutter Widget App**  
+Flutter + Dart (Custom UI Components & Widgets)  
 
-📍 **Event Finder App**  
-React Native + Location-Based Features  
+
 
 ---
 
@@ -83,10 +82,10 @@ React Native + Location-Based Features
 
 ---
 
-## 🔥 Fun Zone
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samadhi-Weerasekara&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/Samadhi-Weerasekara/Samadhi-Weerasekara/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
