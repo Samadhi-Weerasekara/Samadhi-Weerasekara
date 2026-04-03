@@ -1,44 +1,98 @@
-Hi ! 👋
-I'm Samadhi Weerasekara
-===========================================================================================================================================
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Samadhi Weerasekara</h1>
 
-Software Engineer Undergraduate Student @IJSE
----------------------------------------------
-
-Still Learning......
-
-![](https://komarev.com/ghpvc/?username=sw799348&color=green)
-
-* 🌍  I'm based in Sri Lanka
-* ✉️  You can contact me at [sw799348@gmail.com](mailto:sw799348@gmail.com)
-* 🧠  I'm learning Institute of Java Software Engineering
-* 🤝  I'm open to collaborating on projects [Samadhi-Weerasekara.com](https://samadhi-weerasekara.github.io/samadhi-portfolio/)
-
-<a href="https://github.com/Samadhi-Weerasekara" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Samadhi-Weerasekara?logo=github&style=for-the-badge&color=444e59&labelColor=0f172a" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;QA+Enthusiast;Always+Learning+New+Things+🚀" />
 </p>
 
+---
 
-### Socials
+## 🌌 About Me
 
-<p align="left"> <a href="https://www.dribbble.com/Samadhi Weerasekara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/sami_weerasekara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Samadhi-Weerasekara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Samadhi Weerasekara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+- 🎓 Software Engineering Undergraduate @ IJSE  
+- 🌍 Based in Sri Lanka  
+- 💡 Passionate about building real-world applications  
+- 🧪 Interested in QA & Software Testing  
+- 🤝 Open to collaboration & internships  
+- 📫 **Email:** sw799348@gmail.com  
+- 🌐 **Portfolio:** https://samadhi-weerasekara.github.io/samadhi-portfolio/
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## ⚡ Tech Stack
 
-<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Weerasekara&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&show_icons=true" alt="SW799348's GitHub stats" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,linux,figma,cpp,c,arduino&theme=dark" />
+</p>
 
-<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samadhi-Weerasekara&stroke=ffffff&background=0f172a&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="http://www.github.com/Samadhi-Weerasekara"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samadhi-Weerasekara&bg_color=0f172a&color=ffffff&line=444e59&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+## 🚀 Featured Projects
 
-<a href="https://github.com/Samadhi-Weerasekara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadhi-Weerasekara&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=444e59&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+✨ **POS System**  
+Spring MVC + Hibernate + MySQL  
 
+🌱 **Crop Monitoring System**  
+Spring Boot + JWT + MySQL + Role Management  
 
+💪 **Fitness App Backend**  
+Express + TypeScript + Prisma  
+
+🎬 **Movie Ticket Booking App**  
+React Native + TheMovieDB API  
+
+📍 **Event Finder App**  
+React Native + Location-Based Features  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Weerasekara&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samadhi-Weerasekara&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samadhi-Weerasekara&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Samadhi-Weerasekara">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://www.linkedin.com/in/Samadhi-Weerasekara">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="https://www.facebook.com/sami_weerasekara">
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Samadhi-Weerasekara&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 Fun Zone
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Samadhi-Weerasekara&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ✨ Quote
+
+<p align="center">
+  <i>"Consistency beats talent when talent doesn’t work hard."</i>
+</p>
