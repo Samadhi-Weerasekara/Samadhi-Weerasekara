@@ -82,10 +82,10 @@ Flutter + Dart (Custom UI Components & Widgets)
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Fun Zone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Samadhi-Weerasekara/Samadhi-Weerasekara/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samadhi-Weerasekara&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
